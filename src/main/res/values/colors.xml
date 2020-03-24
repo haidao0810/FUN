@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="color_eeeeff">#eeeeff</color>
+    <color name="black">#000000</color>
+    <color name="change_price_back">#60000000</color>
+    <color name="transparent_6">#60000000</color>
+    <color name="red">#FFFF0000</color>
+    <color name="main_color">#10de0e</color>
+    <color name="gray_f8f8f8">#F8F8F8</color>
+    <color name="gray_bfbfbf">#bfbfbf</color>
+    <color name="gray_e5e5e5">#e5e5e5</color>
+    <color name="red_f23010">#f23010</color>
+    <color name="orange_color">#f26a10</color>
+    <color name="gray_e6e6e6">#e6e6e6</color>
+    <color name="gray_f3f3f3">#f3f3f3</color>
+    <color name="green_dbfdd7">#dbfdd7</color>
+    <color name="green_ebfee9">#ebfee9</color>
+    <color name="gray_e2e2e2">#e2e2e2</color>
+    <color name="green_21AC38">#21AC38</color>
+    <color name="key_color">#f5f5f5</color>
+    <color name="dialog_blue_42ba39">#42ba39</color>
+    <color name="greenn_63E663">#63E663</color>
+    <color name="gray_e7e7e7">#e7e7e7</color>
+    <color name="color_d2d2d2">#D2D2D2</color>
+    <color name="color_C6C6C6">#C6C6C6</color>
+    <color name="gray_line">#8E8E8E</color>
+
+    <!-- pos新版设计//////////////////////////////////////// -->
+
+    <color name="new_main_green">#2ba245</color>
+    <color name="new_text_color_989898">#989898</color>
+    <color name="new_text_color_434343">#434343</color>
+    <color name="new_shop_gray_8acfcfcf">#8acfcfcf</color>
+    <color name="new_shop_e76f1f">#e76f1f</color>
+    <color name="new_delete_color_ff3b30">#ff3b30</color>
+    <color name="new_add_color_2ba145">#2ba145</color>
+    <color name="new_number_color">#f23010</color>
+    <color name="new_delete_color_bee0c5">#bee0c5</color>
+    <color name="new_cart_number_gray">#33c2c2c2</color>
+    <color name="new_cart_back_color_fafafa">#fafafa</color>
+    <color name="new_cash_should_hint">#8E8E8E</color>
+    <color name="new_type_EEEEEE">#EEEEEE</color>
+    <color name="new_type_FBFBFB">#FBFBFB</color>
+    <color name="new_type_D3D3D3">#D3D3D3</color>
+    <color name="new_type_text_474747">#474747</color>
+    <color name="new_type_text_8E8E8E">#8E8E8E</color>
+    <color name="new_cash_56C356">#56C356</color>
+    <color name="new_cash_EB192D">#EB192D</color>
+    <color name="new_number_97D397">#97D397</color>
+    <color name="new_search_text_7A7A7A">#7A7A7A</color>
+    <color name="new_search_text_474747">#474747</color>
+    <color name="new_search_add_2BA245">#2BA245</color>
+    <color name="new_search_item_F5F9FF">#F5F9FF</color>
+    <color name="new_search_item_DEDEDE">#DEDEDE</color>
+    <color name="new_title_F2F4FF">#F2F4FF</color>
+    <color name="new_item_474747">#474747</color>
+    <color name="new_list_lan_ffe4e4e4">#ffe4e4e4</color>
+    <color name="new_list_F3F3F3">#F3F3F3</color>
+    <color name="new_list_FFEFEA">#FFEFEA</color>
+    <color name="new_day_select_FF6633">#FF6633</color>
+    <color name="green_90D69c">#90D69c</color>
+
+
+
+    <!-- //////////////////////////////////////// -->
+
+
+    <color name="lk_theme_color">#1b71da</color>
+    <color name="lk_theme_prs_color">#3b71da</color>
+    <color name="gary_line">#dedfe0</color>
+    <color name="lk_equipment_fragment_color">#ECF1F7</color>
+    <color name="green">#4fbfa3</color>
+    <color name="gray">#bebebe</color>
+    <color name="light_gray">#f2f2f2</color>
+    <color name="black_333">#333333</color>
+    <color name="black_666">#666666</color>
+    <color name="black_999">#999999</color>
+    <color name="light_blue">#6593cb</color>
+    <color name="blue_50BD62">#50BD62</color>
+
+    <color name="black_E5E5E5">#E5E5E5</color>
+
+
+    <color name="trans">#00000000</color>
+    <color name="alertdialog_line">#E2E2E2</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="red_FF6633">#FF6633</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+
+
+    <!--智慧支付//////////////////////////////////////////-->
+
+    <color name="sim_input_bt_bg_color">#F1F1F1</color>
+    <color name="sim_input_sure_bg_color">#0ABB07</color>
+    <color name="black_B3B3B3">#B3B3B3</color>
+    <color name="black_f7f7f7">#F7F7F7</color>
+    <color name="black_f8f8f8">#F8F8F8</color>
+
+    <!-- 地推-->
+    <color name="orange_fec142">#fec142</color>
+    <color name="group_black">#F7F7F7</color>
+
+    <!-- 导航栏背景色-->
+    <color name="navigation_bar_background_color">#323943</color>
+    <color name="common_back_color">#323943</color>
+    <color name="common_item_back_color">#505B6B</color>
+    <color name="common_item_select_back_color">#919AA3</color>
+    <color name="navigation_bar_select_color">#15181B</color>
+    <color name="common_item_price_color">#66ABFF</color>
+    <color name="navigation_bar_select_letter_color">#00c250</color>
+    <color name="main_green">#00c250</color>
+    <color name="Line_black_color">#FF919AA3</color>
+
+    <color name="main_gray">#ffeaecf1</color>
+    <color name="gray_F9F9F9">#F9F9F9</color>
+    <color name="color_919AA3">#919AA3</color>
+    <color name="line_back_color">#B4B6BB</color>
+    <color name="goods_back_color">#131810</color>
+    <color name="color_C0C5C7">#C0C5C7</color>
+    <color name="main_blue">#2FCA77</color>
+    <color name="color_E76F1F">#E76F1F</color>
+    <color name="color_AFE2BA">#AFE2BA</color>
+    <color name="color_ffdfe3ee">#ffdfe3ee</color>
+    <color name="color_131810">#131810</color>
+    <color name="color_FF2FCA77">#FF2FCA77</color>
+    <color name="color_FFE76F1F">#FFE76F1F</color>
+    <color name="color_FF4D9DE3">#FF4D9DE3</color>
+    <color name="color_FF919AA3">#FF919AA3</color>
+    <color name="color_FFEDF3F6">#FFEDF3F6</color>
+    <color name="color_FF9BBDC9">#FF9BBDC9</color>
+    <color name="color_FF131810">#FF131810</color>
+    <color name="color_E2E2E2">#FFE2E2E2</color>
+    <color name="color_B7B7B7">#FFB7B7B7</color>
+    <color name="color_2FDB81">#2FDB81</color>
+    <color name="color_E7691F">#E7691F</color>
+    <color name="color_C6CACE">#C6CACE</color>
+    <color name="color_E99D70">#E99D70</color>
+    <color name="color_979797">#979797</color>
+    <color name="color_B5B6BA">#B5B6BA</color>
+    <color name="color_EAECF1">#EAECF1</color>
+    <color name="main_red">#FA5051</color>
+    <color name="color_E73D1F">#E73D1F</color>
+    <color name="color_F2F3F7">#F2F3F7</color>
+
+
+    <color name="color_main_select">#FFFF99</color>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    >
+    <FrameLayout
+        android:id="@+id/home_fragment_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@id/home_function_layout"
+        />
+
+    <RelativeLayout
+        android:id="@+id/home_function_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_44">
+<!--        <TextView-->
+<!--            android:id="@+id/bottom_line"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="@dimen/sp_1"-->
+<!--            android:background="@color/gray_line"-->
+<!--            />-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_44"
+            android:orientation="horizontal">
+            <com.example.bf.kf.widget.HomePageTabLayout
+                android:id="@+id/information_tl"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+            <com.example.bf.kf.widget.HomePageTabLayout
+                android:id="@+id/look_cosmetics_tl"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <com.example.bf.kf.widget.HomePageTabLayout
+                android:id="@+id/circle_tl"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                />
+
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>
